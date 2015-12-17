@@ -1,8 +1,5 @@
-/**
- * Created by knugen on 12/17/15.
- */
 
-/**First challenge o day 1*/
+/**First challenge of day 1*/
 function partOne(str) {
     var floor = 0;
     for (var i = 0; i < str.length; i++) {
